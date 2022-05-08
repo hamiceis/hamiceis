@@ -3,7 +3,7 @@
 
 - 🔥 Front-end Developer
 
-- 💬 Ask me about **Html, CSS, Javascript, Bootstrap, TailwindCSS**
+- 💬 Ask me about **HTML, CSS, Javascript, Bootstrap, TailwindCSS**
 
 
 <br><br>
