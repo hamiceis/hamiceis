@@ -1,9 +1,7 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Hamiceis Pereira.</h1>
 
-- 🔥 Front-end Developer
-
-- 💬 Ask me about **HTML, CSS, Javascript, Bootstrap, TailwindCSS**
+- 🔥 Student -  Front-end Developer
 
 
 <br><br>
