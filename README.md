@@ -4,7 +4,7 @@
 - 🔥 Student -  Front-end Developer
 
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -17,7 +17,7 @@
 
 
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -26,7 +26,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamiceis&layout=compact&theme=vision-friendly-dark" alt="hamiceis's most languages"/>
 </p>
 
-<br><br>
+<br>
 
 
 
