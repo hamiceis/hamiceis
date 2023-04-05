@@ -1,4 +1,8 @@
-## Hi, I'm Hamiceis, front-end developer!
+## Hi, I'm Hamiceis!
+
+####  🌎 Front-end Web Developer! 
+
+</br>
 
 <div align="center">
   <a href="https://github.com/hamiceis">
