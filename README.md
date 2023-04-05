@@ -1,4 +1,4 @@
-## Hi, I'm Hamiceis Pereira, front-end developer!
+## Hi, I'm Hamiceis, front-end developer!
 
 <div align="center">
   <a href="https://github.com/hamiceis">
