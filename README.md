@@ -1,6 +1,6 @@
 ## Hi, I'm Hamiceis!
 
-####  🌎 Front-end Web Developer! 
+####  🌎 Front-end Development with HTML, CSS, Javascript, React and NextJS. 
 
 </br>
 
