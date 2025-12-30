@@ -1,6 +1,6 @@
 ## Hi, I'm Hamiceis!
 
-####  🌎 Front-end Development with HTML, CSS, Javascript, React and NextJS. 
+####  🌎 Full-stack Development with HTML, CSS, Javascript, React and NextJS, Node, Fastify, Express
 
 </br>
 
